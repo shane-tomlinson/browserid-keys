@@ -1,0 +1,15 @@
+{
+  "name": "browserid-keys",
+  "version": "0.0.0",
+  "description": "Key management for BrowserID Identity Providers",
+  "main": "index.js",
+  "author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
+  "scripts": {
+  },
+  "repository": "",
+  "author": "",
+  "license": "MPL 2.0",
+  "dependencies": {
+    "jwcrypto": "0.4.4"
+  }
+}
