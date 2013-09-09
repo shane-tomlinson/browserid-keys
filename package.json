@@ -6,8 +6,7 @@
   "author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
   "scripts": {
   },
-  "repository": "",
-  "author": "",
+  "repository": "https://github.com/shane-tomlinson/browserid-keys.git",
   "license": "MPL 2.0",
   "dependencies": {
     "jwcrypto": "0.4.4"
